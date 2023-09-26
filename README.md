@@ -1,4 +1,5 @@
 # Client : Riding Cities, association de skate
+
 Mission : actualiser la page Internet de Riding Cities de la façon suivante :
 
 Créer une nouvelle section, “Les membres fondateurs”, avec les noms et photos des créateurs de l’association.
